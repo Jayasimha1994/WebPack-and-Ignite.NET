@@ -1,0 +1,9 @@
+F:\C#programs\IgniteProjectNet\IgniteProjectNet\bin\x64\Debug\IgniteProjectNet.exe.config
+F:\C#programs\IgniteProjectNet\IgniteProjectNet\bin\x64\Debug\IgniteProjectNet.exe
+F:\C#programs\IgniteProjectNet\IgniteProjectNet\bin\x64\Debug\IgniteProjectNet.pdb
+F:\C#programs\IgniteProjectNet\IgniteProjectNet\bin\x64\Debug\Apache.Ignite.Core.dll
+F:\C#programs\IgniteProjectNet\IgniteProjectNet\bin\x64\Debug\Apache.Ignite.Core.xml
+F:\C#programs\IgniteProjectNet\IgniteProjectNet\obj\x64\Debug\IgniteProjectNet.csprojResolveAssemblyReference.cache
+F:\C#programs\IgniteProjectNet\IgniteProjectNet\obj\x64\Debug\IgniteProjectNet.exe
+F:\C#programs\IgniteProjectNet\IgniteProjectNet\obj\x64\Debug\IgniteProjectNet.pdb
+F:\C#programs\IgniteProjectNet\IgniteProjectNet\bin\x64\Debug\Apache.Ignite.exe
